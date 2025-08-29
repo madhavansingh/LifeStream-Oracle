@@ -146,5 +146,9 @@ For questions and support, please open an issue in our GitHub repository or join
 **LifeStream Oracle - Where Life Becomes Legacy** 🌟
 
 
-Contract Address: 0x859f01f14b409b08a10ac029a686ca9f858d0059
-Transaction Screenshot: https://drive.google.com/file/d/1Xcq9FF4prQxDT9SeVcaghwuPmKhgZI1M/view?usp=sharing
+## Contract Details
+
+- **Contract Address:** `0x859f01f14b409b08a10ac029a686ca9f858d0059`
+
+**Transaction Screenshot:**  
+![Transaction Screenshot](https://drive.google.com/uc?export=view&id=1Xcq9FF4prQxDT9SeVcaghwuPmKhgZI1M)
