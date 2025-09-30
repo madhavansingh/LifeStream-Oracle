@@ -1,4 +1,4 @@
-# Lifestream Oracle
+# LifeStream Oracle
 
 ## Project Description
 
