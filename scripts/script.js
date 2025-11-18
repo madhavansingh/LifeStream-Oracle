@@ -1,3 +1,6 @@
+// Minor update for commit
+console.log("🚀 script.js loaded");
+
 // Import ethers.js (works in Hardhat or Remix's "Deploy & Run Scripts")
 const { ethers } = require("ethers");
 
