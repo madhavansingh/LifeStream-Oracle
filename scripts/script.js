@@ -1,4 +1,3 @@
-// Minor update for commit
 console.log("🚀 script.js loaded");
 
 // Import ethers.js (works in Hardhat or Remix's "Deploy & Run Scripts")
@@ -23,6 +22,8 @@ async function main() {
   const provider = new ethers.providers.Web3Provider(window.ethereum); 
   await provider.send("eth_requestAccounts", []); // request wallet connect
   const signer = provider.getSigner();
+
+  console.log("🔧 Provider and signer initialized");
 
   // ✅ 2. Load contract instance
   const contract = new ethers.Contract(CONTRACT_ADDRESS, CONTRACT_ABI, signer);
